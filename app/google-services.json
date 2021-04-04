@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593411296182",
+    "project_id": "mccanalytics",
+    "storage_bucket": "mccanalytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593411296182:android:26aa0f4cb382831acf8f17",
+        "android_client_info": {
+          "package_name": "com.example.storesimpleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593411296182-foaht4tl9i1fsgkic6lmerpc2s7k6o37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsMWkMgm8dkWaxQCUAzFP3qKOKjsL2o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593411296182-foaht4tl9i1fsgkic6lmerpc2s7k6o37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
